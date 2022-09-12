@@ -33,7 +33,7 @@ def test_url_for():
     return 'Test page'
 
 
-name = 'Grey Li'
+name = 'ZhangJunxiang'
 movies = [
     {'title': 'My Neighbor Totoro', 'year': '1988'},
     {'title': 'Dead Poets Society', 'year': '1989'},
